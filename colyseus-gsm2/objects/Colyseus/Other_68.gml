@@ -1,0 +1,1 @@
+script_execute(colyseus_network_update);

@@ -1,0 +1,1 @@
+test_msgpack_decode();
